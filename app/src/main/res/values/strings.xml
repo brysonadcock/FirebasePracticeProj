@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Firebase Practice Proj</string>
+    <string name="upload">Upload</string>
+    <string name="choose">Choose</string>
+    <string name="delete">Delete</string>
 </resources>
